@@ -1,0 +1,395 @@
+{
+  "seller": [
+    {
+      "name": "Amar",
+      "email": "abc@gmail.com",
+      "password": "333@#",
+      "id": 1
+    },
+    {
+      "name": "Pooja",
+      "email": "abdc@gmail.com",
+      "password": "3133@#",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "tony@123",
+      "email": "tony@123gmail.com",
+      "id": 3
+    },
+    {
+      "name": "kkkk",
+      "password": "k@123",
+      "email": "1306@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "6666",
+      "password": "1306#@",
+      "email": "1306",
+      "id": 5
+    },
+    {
+      "name": "3333",
+      "password": "1306#@",
+      "email": "1306",
+      "id": 6
+    },
+    {
+      "name": "11",
+      "password": "1306#@11",
+      "email": "130611",
+      "id": 7
+    },
+    {
+      "name": "rty",
+      "password": "rrr23",
+      "email": "gryr@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "abcd",
+      "password": "4900#@22",
+      "email": "4900",
+      "id": 9
+    },
+    {
+      "name": "abcdrtt",
+      "password": "abhff345",
+      "email": "avgg@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "4444",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 11
+    },
+    {
+      "name": "12334",
+      "password": "fgg@43435",
+      "email": "4900ffff",
+      "id": 12
+    },
+    {
+      "name": "tony",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 13
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 15
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 17
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 18
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 20
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 21
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 22
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 23
+    },
+    {
+      "name": "",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 24
+    },
+    {
+      "name": "tony",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 25
+    },
+    {
+      "email": "1306",
+      "password": "1306#@",
+      "id": 26
+    },
+    {
+      "email": "1306",
+      "password": "1306#@66666",
+      "id": 27
+    },
+    {
+      "email": "1306678900",
+      "password": "1306#@",
+      "id": 28
+    },
+    {
+      "email": "1306678900333333",
+      "password": "1306#@",
+      "id": 29
+    },
+    {
+      "email": "oo",
+      "password": "pp",
+      "id": 30
+    },
+    {
+      "name": "",
+      "password": "1306#@",
+      "email": "1306",
+      "id": 31
+    },
+    {
+      "name": "",
+      "password": "1306#@",
+      "email": "1306",
+      "id": 32
+    },
+    {
+      "name": "",
+      "password": "tony@123",
+      "email": "tony@123gmail.com",
+      "id": 33
+    },
+    {
+      "name": "",
+      "password": "tony@123",
+      "email": "tony@123gmail.com",
+      "id": 34
+    },
+    {
+      "name": "22",
+      "password": "4900#@",
+      "email": "4900",
+      "id": 35
+    },
+    {
+      "name": "5555",
+      "password": "gggg@gmail.com",
+      "email": "1306",
+      "id": 36
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone",
+      "price": "3000000",
+      "color": "white",
+      "category": "mobile",
+      "description": "apple",
+      "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPUF3HN_A_1.jpg?v=1662718728",
+      "id": 3
+    },
+    {
+      "name": "HP Laoptop",
+      "price": "2000000",
+      "color": "white",
+      "category": "laptop",
+      "description": "HP product",
+      "image": "https://5.imimg.com/data5/DL/JH/MY-8159159/hp-laptop-1000x1000.jpg",
+      "id": 4
+    },
+    {
+      "name": "1 plus mobile ",
+      "price": "50000",
+      "color": "blue",
+      "category": "mobile",
+      "description": "1+",
+      "image": "https://cdn1.smartprix.com/rx-i0WlpU3oE-w420-h420/oneplus-ace-racing-e.webp",
+      "id": 5
+    },
+    {
+      "name": "shoes",
+      "price": "200000",
+      "color": "Blue",
+      "category": "shoes",
+      "description": "shoes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9grC-OZsr2AGJ5dMVdRfNZ1wpeNqP2u-Qg&usqp=CAU",
+      "id": 6
+    },
+    {
+      "name": "Gucci purse",
+      "price": "50000",
+      "color": "white",
+      "category": "gucci",
+      "description": "gucci product",
+      "image": "https://shopnsafe.com/wp-content/uploads/2021/12/Gucci-Hand-Bags-for-Women-5-Pc-Combo-5.jpg",
+      "id": 7
+    },
+    {
+      "name": "smart watch",
+      "price": "8000",
+      "color": "purple",
+      "category": "Apple smart watch",
+      "description": "Apple smart watch",
+      "image": "https://m.media-amazon.com/images/I/71kJNga+-cL.jpg",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "kaju",
+      "email": "kkk@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "sony",
+      "email": "ss@gmail.com",
+      "password": "2345",
+      "id": 2
+    },
+    {
+      "name": "33",
+      "email": "4900",
+      "password": "4900#@",
+      "id": 3
+    },
+    {
+      "name": "kkkk",
+      "email": "ggg@gmail.com",
+      "password": "234444",
+      "id": 4
+    },
+    {
+      "name": "ee",
+      "email": "kk@gmail.com",
+      "password": "4900#@",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "iphone",
+      "price": "3000000",
+      "color": "white",
+      "category": "mobile",
+      "description": "apple",
+      "image": "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MPUF3HN_A_1.jpg?v=1662718728",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 3,
+      "id": 9
+    },
+    {
+      "name": "HP Laoptop",
+      "price": "2000000",
+      "color": "white",
+      "category": "laptop",
+      "description": "HP product",
+      "image": "https://5.imimg.com/data5/DL/JH/MY-8159159/hp-laptop-1000x1000.jpg",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 4,
+      "id": 11
+    },
+    {
+      "name": "Gucci purse",
+      "price": "50000",
+      "color": "white",
+      "category": "gucci",
+      "description": "gucci product",
+      "image": "https://shopnsafe.com/wp-content/uploads/2021/12/Gucci-Hand-Bags-for-Women-5-Pc-Combo-5.jpg",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 7,
+      "id": 12
+    },
+    {
+      "name": "smart watch",
+      "price": "8000",
+      "color": "purple",
+      "category": "Apple smart watch",
+      "description": "Apple smart watch",
+      "image": "https://m.media-amazon.com/images/I/71kJNga+-cL.jpg",
+      "quantity": 2,
+      "userId": 4,
+      "productId": 8,
+      "id": 13
+    },
+    {
+      "name": "HP Laoptop",
+      "price": "2000000",
+      "color": "white",
+      "category": "laptop",
+      "description": "HP product",
+      "image": "https://5.imimg.com/data5/DL/JH/MY-8159159/hp-laptop-1000x1000.jpg",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 4,
+      "id": 14
+    },
+    {
+      "name": "smart watch",
+      "price": "8000",
+      "color": "purple",
+      "category": "Apple smart watch",
+      "description": "Apple smart watch",
+      "image": "https://m.media-amazon.com/images/I/71kJNga+-cL.jpg",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 8,
+      "id": 15
+    }
+  ],
+  "orders": [
+    {
+      "email": "shh@gmail.com",
+      "address": "www",
+      "contact": "55677",
+      "totalPrice": 5000100,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "kkkk@gmail.com",
+      "address": "laxmi nagar",
+      "contact": "88006544",
+      "totalPrice": 5000100,
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}
